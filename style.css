@@ -99,7 +99,7 @@ header .cta {
 }
 .hero {
   background: var(--gp-main-color);
-  background-image: url("/bg.png");
+  background-image: url("bg.png");
   background-repeat: no-repeat;
   background-position: center center;
   height: 500px;
