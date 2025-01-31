@@ -655,6 +655,10 @@ tr:hover td {
   background-color: #fcfcfc;
   transition: background 0.3s;
 }
+@media screen and (max-width: 1040px) {
+  .half-size {
+    width: 80%;}
+}
 @media screen and (max-width: 824px) {
   .flex-responsive {
     flex-direction: column;
